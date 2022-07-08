@@ -43,14 +43,14 @@ there are 10 different words for the user to choose, and after that, the user tr
 The second "Lista Palavras" page presents an additional application not found in the original system, which allows the user to find the 500 most similar words for the word typed.
 
 <p align="center">
-  <img alt="Page2" title="#Page2" src="assets/pane2.png" width="400px">
+  <img alt="Page2" title="#Page2" src="assets/page2.png" width="400px">
 </p>
 
 ### Page 3: Sobre
 The final "Sobre" page presents some information about the project and the based system.
 
 <p align="center">
-  <img alt="Page3" title="#Page3" src="assets/pane3.png" width="400px">
+  <img alt="Page3" title="#Page3" src="assets/page3.png" width="400px">
 </p>
 
 Note: The system has been fully developed for Portuguese speakers, which means that any word entered in the system must be in Portuguese.
