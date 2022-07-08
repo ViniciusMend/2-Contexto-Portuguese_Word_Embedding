@@ -36,7 +36,7 @@ The first "Jogo" page presents the main application, which is the same resource 
 there are 10 different words for the user to choose, and after that, the user tries to find the secret word by writing other words, and the system tells how far or close the entered word is from the secret word. The objective is to find the word number 1.
 
 <p align="center">
-  <img alt="Page1" title="#Page1" src="assets/page1.png" width="400px">
+  <img alt="Page1" title="#Page1" src="assets/page1.png" width="100%" height="50%">
 </p>
 
 ### Page 2: Lista Palavras
