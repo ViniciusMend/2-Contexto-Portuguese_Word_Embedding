@@ -1,0 +1,66 @@
+footer, .css-pxxe24 {
+    visibility: hidden;
+}
+
+.stMarkdown {
+    text-align: center;
+    font-weight: bold;
+}
+
+#MainMenu {
+    visibility: hidden;
+    height: 0px;
+}
+
+.block-container {
+    position: relative;
+    padding-top: 30px;
+}
+
+.css-12ttj6m {
+    border: none;
+}
+
+.css-10trblm {
+    font-weight: bold;
+    font-size: 35px;
+    color: black;
+}
+
+.st-br, .st-bq {
+    height: 60px;
+    background-color: #F4EDE2;
+    border-color: grey;
+    color: black;
+}
+
+.st-br:hover {
+    height: 60px;
+    background-color: #FFFFFF;
+    border-color: black;
+}
+
+.st-af {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+.css-qrbaxs{
+    min-height: 0px;
+    height: 5px;
+}
+
+.css-k0sv6k, .css-1v3fvcr, .css-fk4es0, .css-hy8qiv{
+    background-color: white;
+    background-image: none;
+}
+
+.css-1vlsgli, .css-znku1x {
+    font-weight: bold;
+    top: 25%;
+}
+
+.css-1siy2j7 {
+    background-color: rgb(244, 237, 226);
+}
