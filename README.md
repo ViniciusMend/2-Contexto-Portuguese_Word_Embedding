@@ -1,4 +1,5 @@
 # RECODING CONTEXTO GAME IN PYTHON
+### Medium article [here](https://medium.com/@viniciushenrique9510/recriando-jogo-contexto-3c4a42f5710e)
 <img src="assets/contexto.png"
      alt="Contexto"
      style="width: 100%; height: 50%" />
